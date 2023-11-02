@@ -80,3 +80,5 @@ Various machine learning models were evaluated, including SVM, ResNet-50, VGG16,
 
 The skin cancer detection and classification model was deployed using Flask, and a website was developed with HTML and CSS to provide a user-friendly interface for using the model.
 
+
+
