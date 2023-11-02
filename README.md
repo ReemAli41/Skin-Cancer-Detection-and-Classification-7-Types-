@@ -14,8 +14,6 @@
 - [Normalization](#normalization)
 - [Models and Results](#models-and-results)
 - [Website](#website)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
